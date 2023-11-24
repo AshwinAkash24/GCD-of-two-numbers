@@ -32,7 +32,8 @@ def gcd():
 
 ## Output:
 ![gcd of two number](gcd.png)
-![Alt text](gcd-1.png)
+![Screenshot 2023-11-24 180735](https://github.com/AshwinAkash24/GCD-of-two-numbers/assets/144979248/3aa9bb08-c0cc-4040-b887-bb0dd9069a96)
+
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
